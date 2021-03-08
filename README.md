@@ -57,7 +57,12 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
     height="35"
     src="assets/git.svg" />
 </a>
-
+<a href="https://azure.microsoft.com/pt-br/overview/devops-tutorial/">
+  <img
+    alt="git"
+    height="35"
+    src="assets/azuredevops.svg" />
+</a>
 </div>
 <hr>
 
