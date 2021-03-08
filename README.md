@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vinicius Teixeira a Brazilian software developer who loves to dicover new thing and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal. And I love build new things.
+I'm Vinicius Teixeira a Brazilian software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal. And I love build new things.
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTei&layout=compact&theme=gotham"/>
