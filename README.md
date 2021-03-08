@@ -6,6 +6,7 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to dicover new th
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTei&layout=compact&theme=gotham"/>
 </p>
 <hr>
+
 ### Skills/Interests 🏅
 <br>
 
@@ -59,6 +60,7 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to dicover new th
 
 </div>
 <hr>
+
 ### Contact 📞
 
 <div align="center">
