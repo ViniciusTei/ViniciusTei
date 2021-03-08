@@ -67,11 +67,11 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
   You can find me in my 
   <a href="https://www.linkedin.com/in/viniciustei/">
     <img
-      alt="git"
-      height="18"
-      src="assets/linkedin.svg" />
+      alt="linkedin"
+      src="https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white" />
   </a>.
 </div>
+
 
 
 
