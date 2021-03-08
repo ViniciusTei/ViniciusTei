@@ -25,11 +25,11 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
     src="assets/c.svg" />
 </a>
 
-<a href="https://www.cplusplus.com/">
+<a href="https://ionicframework.com/">
   <img
-    alt="C++"
+    alt="Ionic"
     height="35"
-    src="assets/cplusplus.svg" />
+    src="assets/ionic.svg" />
 </a>
 
 <a href="https://nodejs.org/">
@@ -59,7 +59,7 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
 </a>
 <a href="https://azure.microsoft.com/pt-br/overview/devops-tutorial/">
   <img
-    alt="git"
+    alt="Azure"
     height="35"
     src="assets/azuredevops.svg" />
 </a>
