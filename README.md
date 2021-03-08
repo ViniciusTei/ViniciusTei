@@ -24,3 +24,5 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to dicover new th
     height="80"
     src="https://git-scm.com/images/logo@2x.png" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTei&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
