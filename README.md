@@ -11,6 +11,12 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
 <br>
 
 <div align="center">
+<a href="https://reactjs.org/">
+  <img
+    alt="React"
+    height="35"
+    src="assets/react.svg" />
+</a>
 <a href="https://angular.io/">
   <img
     alt="Angular"
