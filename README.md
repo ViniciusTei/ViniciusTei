@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🚀
 
-I'm Vinicius Teixeira a Brazilian software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal. And I love build new things.
+I'm Vinicius Teixeira a Brazilian frontend software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal and learning new skills.
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTei&layout=compact&theme=gotham"/>
@@ -17,12 +17,12 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
     height="35"
     src="assets/react.svg" />
 </a>
-<a href="https://angular.io/">
+<!-- <a href="https://angular.io/">
   <img
     alt="Angular"
     height="35"
     src="assets/angular.svg" />
-</a>
+</a> -->
 
 <a href="https://www.cprogramming.com/">
   <img
@@ -31,12 +31,12 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
     src="assets/c.svg" />
 </a>
 
-<a href="https://ionicframework.com/">
+<!-- <a href="https://ionicframework.com/">
   <img
     alt="Ionic"
     height="35"
     src="assets/ionic.svg" />
-</a>
+</a> -->
 
 <a href="https://nodejs.org/">
   <img
@@ -45,19 +45,25 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
     src="assets/node-dot-js.svg" />
 </a>
 
-<a href="https://www.javascript.com/">
+<!-- <a href="https://www.javascript.com/">
   <img
     alt="javascript"
     height="35"
     src="assets/javascript.svg" />
-</a>
+</a> -->
 <a href="https://www.typescriptlang.org/">
   <img
     alt="typescript"
     height="35"
     src="assets/typescript.svg" />
 </a>
-<a href="https://git-scm.com/">
+<a href="https://github.com/">
+  <img
+    alt="github"
+    height="35"
+    src="assets/github.svg" />
+</a>
+<!-- <a href="https://git-scm.com/">
   <img
     alt="git"
     height="35"
@@ -68,14 +74,14 @@ I'm Vinicius Teixeira a Brazilian software developer who loves to discover new t
     alt="Azure"
     height="35"
     src="assets/azuredevops.svg" />
-</a>
+</a> -->
 </div>
 <hr>
 
-### Contact 📞
+### Contact ☎
 
 <div align="center">
-  You can find me in my 
+  You can find me at 
   <a href="https://www.linkedin.com/in/viniciustei/">
     <img
       alt="linkedin"
