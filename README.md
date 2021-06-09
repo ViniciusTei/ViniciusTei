@@ -1,8 +1,7 @@
-### Hi there 🚀
+<h1 align="center">Hello world! 🤗</h1>
 
-I'm Vinicius Teixeira a Brazilian frontend software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal and learning new skills.
-<hr>
-<p align="center">
+<p align="center">I'm Vinicius Teixeira a Brazilian frontend software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal.
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTei&layout=compact&theme=gotham"/>
 </p>
 <hr>
