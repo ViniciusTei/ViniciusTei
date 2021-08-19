@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! 🤗</h1>
 
-<p align="center">I'm Vinicius Teixeira a Brazilian frontend software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal.
+<p align="center">I'm Vinicius Teixeira a Brazilian software developer who loves to discover new technologies and programing. I'm currently a Computer Science undergraduate student at UFV - Campus Florestal.
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTei&layout=compact&theme=gotham"/>
 </p>
